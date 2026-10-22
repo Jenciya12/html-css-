@@ -1,0 +1,290 @@
+
+
+body{
+    background-color: rgb(215, 182, 245);
+    height:0px;
+    width:0px;
+}
+
+.logo{
+    
+    color: black;
+    display: flex;
+}
+
+.logo p{
+    font-size: 25px;
+    color:rgb(55, 8, 71);
+}
+.box5 p1{
+    font-size: 25px;
+    font-style: italic;
+    margin-left: px;
+    margin-top: 25px;
+}
+
+.logo img{
+    height:80px;
+    width:80px;
+    margin-left: 25px;
+
+  
+}
+
+.nav{
+    display: flex;
+    color: black;
+    margin-left: 620px;
+    gap:25px;
+    margin-top: 30px;
+    font-size: 16px;
+
+}
+
+.btn{
+    background-color:rgb(55, 8, 71);
+    height:40px;
+    width:200px;
+    color:aliceblue;
+    
+    border-radius: 30px;
+}
+
+
+
+
+.box{
+    border: 2px solid white;
+    height:600px;
+    width:1510px;
+    position: relative;
+}
+
+.hero{
+    
+    height:600px;
+    width:1500px;
+}
+
+.box img{
+    height:600px;
+    width:1510px;
+    border: 2px solid rgb(55, 8, 71);
+}
+
+.box-text{
+    position: absolute;
+    top:20%;
+    margin-left: 35px;;
+}
+p{
+    font-size: 15px;
+    color:aliceblue;
+   
+}
+
+p1{
+    font-size: 35px;
+    color:aliceblue;
+
+}
+
+p2{
+    font-size: 15px;
+    color:aliceblue;
+    margin-top: 1000px;
+    
+
+}
+
+.box-text button{
+    border: 2px solid #e2adee;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    font-style:initial;
+
+}
+
+/* <Grid container section> */
+
+.grid-box{
+    border: 2px solid rgb(55, 8, 71) ;
+    height:280px;
+    width:1510px;
+    margin-top: 0px;
+    background-color: rgb(115, 83, 125);
+    display: flex;
+    gap:30px;
+   
+}
+
+.box1 {
+    height:230px;
+    width:200px;
+    border: 2px solid rgb(55, 8, 71);
+    margin-top: 25px;
+   
+     margin-left: 50px;
+    
+}
+
+.box1 img{
+    height:50px;
+    width:50px;
+    margin-left: 75px;
+}
+
+.box1 p1{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 30px;
+    color:rgb(55, 8, 71);
+}
+
+.box1 h1{
+    color:rgb(202, 192, 205);
+   font-size: 16px;
+   text-align: center;
+}
+
+.my-button{
+    margin-left: 30px;
+    height:25px;
+    width:130px;
+    font-size: 15px;
+    background-color:rgb(96, 50, 111) ;
+    color:aliceblue
+}
+
+.my-button3{
+    margin-top:20px ;
+    background-color:rgb(96, 50, 111) ;
+     color:aliceblue;
+     margin-left: 42px;
+}
+
+
+/* <subhero section> */
+.box5{
+    border: 2px solid rgb(243, 240, 241) ;
+    height:300px;
+    width:1510px;
+ 
+  
+}
+
+.box5 img{
+      
+    height:300px;
+    width:1510px;
+       position: relative;
+}
+
+.b5-text{
+    font-size: 25px;
+    position: absolute;
+    top:1000px;
+    color:aliceblue;
+    margin-left: 50px;
+}
+
+.btn7{
+    border: 2px solid  rgb(249, 245, 250);
+    font-size: 16px;
+    height:30px;
+    background-color: #e2adee;
+}
+
+.b5-text1{
+    font-size: 18px;
+    color:rgb(249, 248, 250);
+}
+
+.box6{
+    border: 1px solid rgb(241, 238, 242);
+    height:180px;
+    width:1510px;
+    display: flex;
+}
+
+.box6-text{
+margin-top: 65px;
+margin-left: 50px;
+display: flex;
+font-size: 30px;
+font-style: oblique;
+color: rgb(55, 8, 71);
+}
+
+.box6-text img{
+    height:60px;
+    width: 60px;
+}
+.box6-text1 p5{
+    font-size: 20px;
+   
+    color:rgb(55, 8, 71);
+ 
+}
+.box6-text1{
+    position: absolute;
+    font-size: 16px;
+    margin-left: 460px;
+    margin-top: 0px;
+    color:rgb(55, 8, 71);
+    margin-top: 15px;
+}
+.box6-text1 p6{
+    font-size: 14px;
+    margin-top: px;
+    color:rgb(55, 8, 71);}
+
+.follow{
+    margin-left: 600px;
+    margin-top: 15px;
+    color:rgb(55, 8, 71);
+}
+
+.follow p7{
+     color:rgb(55, 8, 71);
+     margin-top: 30px;
+      font-size: 20px;
+
+     }
+
+.letter{
+    margin-left: 250px;
+    margin-top: 15px;
+    color:rgb(55, 8, 71);
+}
+
+.letter-text p8{
+    font-size:20px;
+   
+
+}
+
+.my-btn{
+    background-color: rgb(55, 8, 71);
+    color:rgb(242, 241, 239);
+     display: flex;
+     height:30px;
+     width:160px;
+     font-size: 14px;
+     padding: 5px;
+
+    
+}
+.my-btn1{
+    background-color:rgb(55, 8, 71) ;
+     height:30px;
+     width:35px;
+     
+}
+
+
+
+.icon{
+    margin-top: 0px;
+}
